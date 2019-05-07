@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-upyundeploy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hexo又拍云存储部署2019版",
   "main": "index.js",
   "directories": {
