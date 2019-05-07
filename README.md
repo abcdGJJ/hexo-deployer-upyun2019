@@ -1,11 +1,11 @@
-# hexo-deployer-upyun2019
+# hexo-deployer-upyundeploy
 
 hexo博客又拍云部署2019版
 
 # 安装
 
 ```
-npm install hexo-deployer-upyun2019 --save
+npm install hexo-deployer-upyundeploy --save
 ```
 
 # 用法
