@@ -1,5 +1,5 @@
 {
-  "name": "hexo-deployer-upyun2019",
+  "name": "hexo-deployer-upyundeploy",
   "version": "1.0.0",
   "description": "hexo又拍云存储部署2019版",
   "main": "index.js",
