@@ -1,0 +1,1 @@
+hexo.extend.deployer.register('upyun', require('./lib/upyun'));
